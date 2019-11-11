@@ -1,4 +1,4 @@
-# Testing III
+# Testing III - Addison Hill
 
 In this project, you will demonstrate proficiency by writing unit tests for an existing React application. Your tests should verify the behavior listed in the _Minimum Viable Product_ section.
 
